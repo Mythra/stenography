@@ -1,0 +1,15 @@
+{
+  "name": "stenography",
+  "version": "1.0.0",
+  "description": "Record all traffic for a bit of time",
+  "main": "app.js",
+  "scripts": {
+  },
+  "keywords": [
+    "record",
+    "docker",
+    "http"
+  ],
+  "author": "Cynthia <cynthia@coan.dev>",
+  "license": "MIT"
+}
